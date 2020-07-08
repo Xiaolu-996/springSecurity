@@ -46,7 +46,7 @@
 4.重写configure(AuthenticationManagerBuilder auth)方法 定制认证规则
 
 
-###总结
+### 总结
 1.授权：
 - 用户界面访问授权
 - 登录页面的定制及登录时传递的参数定制（可修改默认登录界面）
