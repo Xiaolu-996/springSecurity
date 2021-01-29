@@ -1,5 +1,5 @@
 # springSecurity
-:see_no_evil:  A demo of springSecurity，学习springsecurity时的小demo
+:triangular_flag_on_post: A demo of springSecurity，学习springsecurity时的小demo
 ## SpringSecurity 
 ## 意义：
 - 功能性需求：否
